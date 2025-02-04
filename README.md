@@ -67,6 +67,18 @@ When you open the application, you will see a navigation bar with the following 
 * Add pagination for the borrowing records table.  
 * Improve error handling and user feedback.
 
+
+### To access the Backend of this Frontend
+* **To Access the Application**:  
+    Open your browser and navigate to https://github.com/Aljawaab/Library_Lending_System.git
+    
+* **Clone the Repository**:  
+    ```bash  
+    git clone git@github.com:Aljawaab/Library_Lending_System.git
+    cd Library_Lending_System  
+    ```
+*  Then follow setup process in the repos ReadMe 
+
 ## License  
 MIT License  
 
