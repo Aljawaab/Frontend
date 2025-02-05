@@ -77,7 +77,9 @@ When you open the application, you will see a navigation bar with the following 
     git clone git@github.com:Aljawaab/Library_Lending_System.git
     cd Library_Lending_System  
     ```
-*  Then follow setup process in the repos ReadMe 
+
+* Deployed link of the Backend: https://library-lending-system-db.onrender.com
+*  Then follow setup process in the repo's ReadMe of the backend.
 
 ## License  
 MIT License  
